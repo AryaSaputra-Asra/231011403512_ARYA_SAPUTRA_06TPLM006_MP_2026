@@ -97,12 +97,6 @@ flutter run -d chrome
 
 ---
 
-## 📸 Screenshot
-
-> *(Tambahkan screenshot aplikasi di sini setelah dijalankan)*
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 - **Framework:** Flutter 3.x
