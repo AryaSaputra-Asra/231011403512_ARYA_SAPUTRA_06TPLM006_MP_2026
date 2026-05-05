@@ -13,7 +13,7 @@
 | **Kelas** | 06TPLM006 |
 | **Semester** | 6 |
 | **Tahun** | 2026 |
-| **Dosen** | [Nama Dosen] |
+| **Dosen** | ADE PUTRA PRIMA SUHENDRI S.Kom., M.Kom. |
 
 ---
 
